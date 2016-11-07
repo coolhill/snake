@@ -1,5 +1,3 @@
-Simple snake clone written in Java.
-
 ## Known Bugs:
  - Immediate kill by all KeyEvents except those defined.
  - Snake can go somewhat outside lower and right border. 
