@@ -1,11 +1,11 @@
 
 /*
- * Oskar Svalbacke, Februari 2016
- * 2016-04-21: Jag uppdatera snake med kollisionsdetektering och poängräkning i hörnet.
+ * Februari 2016
+ * 2016-04-21: Jag uppdatera snake med kollisionsdetektering och poÃ¤ngrÃ¤kning i hÃ¶rnet.
  *
  * BUGGAR:
- *  - Man dör dirr vid tryck av alla KeyEvents förutom de definierade.
- *  - Man kan åka utanför ramen på botten + höger. 
+ *  - Man dÃ¶r dirr vid tryck av alla KeyEvents fÃ¶rutom de definierade.
+ *  - Man kan Ã¥ka utanfÃ¶r ramen pÃ¥ botten + hÃ¶ger. 
  */
 
 import javax.swing.*;
